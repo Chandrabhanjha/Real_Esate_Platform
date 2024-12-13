@@ -1,5 +1,5 @@
 Real Estate Platform
-Overview
+
 The Real Estate Platform is a web application designed to streamline property management, enhance user experiences, and provide tailored solutions for thriving in the digital real estate landscape. It incorporates modern web technologies to deliver a seamless, user-friendly experience for both property seekers and sellers.
 
 Features
